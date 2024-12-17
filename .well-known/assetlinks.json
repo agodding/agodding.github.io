@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.goosechaseadventures.goosechase.staging",
+    "sha256_cert_fingerprints":
+    ["8D:2C:5C:12:DE:D3:70:2F:5B:A5:9B:36:3E:5D:DA:76:71:E8:D7:BD:AD:9D:88:1B:2D:FA:A3:38:03:14:9C:F0"]
+  }
+}]
